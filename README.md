@@ -7,7 +7,7 @@
 [![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/thebigcicca.shades-of-sky?color=273552)](https://marketplace.visualstudio.com/items?itemName=thebigcicca.shades-of-sky)
 [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/thebigcicca.shades-of-sky?color=273552)](https://marketplace.visualstudio.com/items?itemName=thebigcicca.shades-of-sky)
 [![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/thebigcicca.shades-of-sky?color=273552)](https://marketplace.visualstudio.com/items?itemName=thebigcicca.shades-of-sky)
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/thebigcicca?color=273552)](https://x.com/thebigcicca)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/xenodesire?color=273552)](https://x.com/xenodesire)
 
 </div>
 
