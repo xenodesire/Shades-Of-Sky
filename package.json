@@ -2,16 +2,16 @@
   "name": "shades-of-sky",
   "displayName": "Shades Of Sky",
   "description": "🦄 Shades of Sky — A professional theme with hand-picked & bold & italic shades of sky to go along with your VSCode.",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "publisher": "thebigcicca",
-  "author": "Bruno Ciccarino",
-  "icon": "icon.jpg",
+  "author": "Bruno G. Ciccarino",
+  "icon": "icon.png",
   "bugs": {
-    "url": "https://github.com/thebigcicca/Shades-Of-Sky/issues"
+    "url": "https://github.com/xenodesire/Shades-Of-Sky/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/thebigcicca/Shades-Of-Sky"
+    "url": "https://github.com/xenodesire/Shades-Of-Sky"
   },
   "engines": {
     "vscode": "^1.98.0"
@@ -20,6 +20,8 @@
     "Themes"
   ],
   "keywords": [
+    "theme",
+    "themes",
     "shades of purple",
     "Shades Of Purple",
     "Shades Of Sky",
