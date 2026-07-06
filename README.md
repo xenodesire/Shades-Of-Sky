@@ -6,6 +6,16 @@
 
 ![shades-of-sky preview](./preview.png)
 
+<details>
+<summary>⛅ Sky</summary>
+<img src="img/codesnapsky.png"/>
+</details>
+<details>
+<summary>🌙 Midnight</summary>
+<img src="img/codesnapmidnight.jpg"/>
+</details>
+
+
 ## 🎨 Color palette
 
 |      USAGE       |                                HEX CODES                                 |
