@@ -1,6 +1,6 @@
 # shades-of-sky [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/xenodesire?color=273552)](https://x.com/xenodesire)
 
-🦄 Shades of Sky offers a hand-picked selection of svelte and calm shades of sky, for inspired and creative developers, perfect for boosting your workflow! Get the best of both worlds 🌍 using shades of sky, Sometimes a little color 🎨 is all you need. 
+☁️ Shades of Sky — Soothing sky-blue theme for VS Code. 
 
 > If you liked the theme, don't forget to rate it on the marketplace so that it reaches more people and follow me on Github: [Bruno G. Ciccarino](https://github.com/xenodesire)💙
 
@@ -8,11 +8,11 @@
 
 <details>
 <summary>⛅ Sky</summary>
-<img src="img/codesnapsky.png"/>
+<img src="https://raw.githubusercontent.com/xenodesire/Shades-Of-Sky/main/img/codesnapsky.png"/>
 </details>
 <details>
 <summary>🌙 Midnight</summary>
-<img src="img/codesnapmidnight.jpg"/>
+<img src="https://raw.githubusercontent.com/xenodesire/Shades-Of-Sky/main/img/codesnapmidnight.jpg"/>
 </details>
 
 

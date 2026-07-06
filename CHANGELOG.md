@@ -40,3 +40,16 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.8]
 
 - new preview image
+
+## [0.0.9]
+
+- readme fix
+
+## [0.1.0]
+
+- new colorscheme
+- new preview image
+
+## [0.1.1]
+
+- new concept

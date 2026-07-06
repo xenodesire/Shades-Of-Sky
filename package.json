@@ -1,17 +1,17 @@
 {
   "name": "shades-of-sky",
-  "displayName": "Shades Of Sky",
-  "description": "🦄 Shades of Sky — A professional theme with hand-picked & bold & italic shades of sky to go along with your VSCode.",
-  "version": "0.1.0",
+  "displayName": "shades of sky",
+  "description": "☁️ Shades of Sky — Soothing sky-blue theme for VS Code.",
+  "version": "0.1.1",
   "publisher": "thebigcicca",
   "author": "Bruno G. Ciccarino",
   "icon": "icon.png",
   "bugs": {
-    "url": "https://github.com/xenodesire/Shades-Of-Sky/issues"
+    "url": "https://github.com/xenodesire/shades-of-sky/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/xenodesire/Shades-Of-Sky"
+    "url": "https://github.com/xenodesire/shades-of-sky"
   },
   "engines": {
     "vscode": "^1.98.0"
